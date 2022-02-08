@@ -1,6 +1,7 @@
 /* Project Name: Battleship
  * Author: Rudaina Zahid
- * Description: This program allows the user to play * a game of battleship against the computer
+ * Description: This program allows the user to play 
+ * a game of battleship against the computer
 */
 
 //include libraries
